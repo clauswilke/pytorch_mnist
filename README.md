@@ -1,4 +1,4 @@
-# Pytorch MNIST examples
+# PyTorch MNIST examples
 
 This repo contains notebooks demonstrating hand-written digit recognition with various network architectures, including multi-layer perceptron (MLP) and convolutional neural network (CNN).
 
